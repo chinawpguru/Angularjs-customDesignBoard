@@ -1,0 +1,27 @@
+{
+	"photos": [
+		{"name":"anniversary","items":8,"type":"jpg"},
+		{"name":"birthday","items":9,"type":"jpg"},
+		{"name":"christmas","items":0,"type":"jpg"},
+		{"name":"congratulations","items":1,"type":"jpg"},
+		{"name":"father's day","items":0,"type":"jpg"},
+		{"name":"floral","items":1,"type":"jpg"},
+		{"name":"mother's day","items":2,"type":"jpg"},
+		{"name":"nature","items":4,"type":"jpg"},
+		{"name":"new baby","items":0,"type":"jpg"},
+		{"name":"new years","items":0,"type":"jpg"},
+		{"name":"thank you","items":0,"type":"jpg"},
+		{"name":"thanksgiving","items":0,"type":"jpg"},
+		{"name":"valentine's day","items":8,"type":"jpg"},
+		{"name":"watercolor","items":1,"type":"jpg"},
+		{"name":"wedding","items":13,"type":"jpg"}
+	],
+	"stickers": [
+		{"name":"anniversary","items":1,"type":"png"},
+		{"name":"birthday","items":11,"type":"png"},
+		{"name":"floral","items":3,"type":"png"},
+		{"name":"valentine's day","items":4,"type":"png"},
+		{"name":"wedding","items":22,"type":"png"},
+		{"name":"wedding","items":4,"type":"svg"}
+	]
+}
